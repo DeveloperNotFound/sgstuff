@@ -61,110 +61,110 @@ if (!this[CHANNEL.name].favicon) {
         settings: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/5zdpunzv270q70d/settings.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/settings.js",
             done: true
         },
         privmsg: {
             active: 1,
             rank: 1,
-            url: "https://dl.dropbox.com/s/32orroqaaa1myb3/privmsg.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/privmsg.js",
             done: true
         },
         whispers: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/sy1yduajy9d2f8d/whispers.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/whispers.js",
             done: true
         },
         userlist: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/oqbegxltp0kjkor/userlist.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/userlist.js",
             done: true
         },
         md5hash: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/ys7vjnke7nvjkx1/md5hash.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/md5hash.js",
             done: true
         },
         designator: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/7szdfiz4eagby8n/designator.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/designator.js",
             done: true
         },
         playlist: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/sb673gke27a0973/playlist.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/playlist.js",
             done: true
         },
         notifier: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/0sbj6t8ygpj04tt/notifier.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/playlist.js",
             done: true
         },
         chatline: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/g21zoje4chh383z/chatline.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/chatline.js",
             done: true
         },
         chatext: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/im9y1ur2g9mgfac/chattext.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/chattext.js",
             done: true
         },
         chatcolor: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/og3hm8z934m643x/chatcolor.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/chattext.js",
             done: true
         },
         colormap: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/651ddsn43w1h7f2/colormap.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/colormap.js",
             done: true
         },
         layout: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/z131cjzfs4ad380/layout.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/layout.js",
             done: true
         },
         various: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/9idxpta013jt9p0/various.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/various.js",
             done: true
         },
         embedmedia: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/dhio89hs1cw2l1b/embedmedia.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/embedmedia.js",
             done: true
         },
         chaticons: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/4k3n2xjabp44wcj/chaticons.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/embedmedia.js",
             done: true
         },
         ci_library: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/7e10hv63ek16pu9/ci_library.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/ci_library.js",
             done: true,
             cache: false
         },
         time: {
             active: 1,
             rank: -1,
-            url: "https://dl.dropbox.com/s/ixulgoqrh01ejeo/time.js",
+            url: "https://cdn.jsdelivr.net/gh/DeveloperNotFound/sgstuff/modules/time.js",
             done: true
         }
     },
