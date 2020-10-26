@@ -1,7 +1,7 @@
 "use strict";
 (function(CyTube_ChatIconsLibrary) {
     return CyTube_ChatIconsLibrary(
-        window["ChatIcons"])
+        window[ChatIcons])
 })(function(ChatIcons) {
     ChatIcons.avatars = Object
         .assign(ChatIcons.avatars, {
