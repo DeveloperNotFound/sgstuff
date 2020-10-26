@@ -57,7 +57,6 @@
 		moonshard: "MoonShard",
         kekarot: "Kekarot",
         spyromancy: "Spyromancy",
-        tollesbrot: "TollesBrot",
         sparkelyfox: "Sparkelyfox",
         ruralgaming: "Changeling05"
     });
