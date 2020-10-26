@@ -1,10 +1,4 @@
-"use strict";
-(function(CyTube_ChatIconsLibrary) {
-    return CyTube_ChatIconsLibrary(
-        window["ChatIcons"])
-})(function(ChatIcons, undefined) {
-    ChatIcons.avatars = Object
-        .assign(ChatIcons.avatars, {
+"use strict";(function(CyTube_ChatIconsLibrary){return CyTube_ChatIconsLibrary(window["ChatIcons"])})(function(ChatIcons,undefined){ChatIcons.avatars=Object.assign(ChatIcons.avatars,
                         Queen: "https://cdn.discordapp.com/attachments/701588063616499792/736280529388699678/Queen.gif",
 			Changeling01: "https://derpicdn.net/img/view/2012/10/2/111823.png",
 			Changeling02: "https://derpicdn.net/img/view/2012/10/2/111819.png",
