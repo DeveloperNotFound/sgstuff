@@ -61,97 +61,97 @@ if (!this[CHANNEL.name].favicon) {
         settings: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/settings.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/settings.js",
             done: true
         },
         privmsg: {
             active: 1,
             rank: 1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/privmsg.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/privmsg.js",
             done: true
         },
         whispers: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/whispers.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/whispers.js",
             done: true
         },
         userlist: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/userlist.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/userlist.js",
             done: true
         },
         md5hash: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/md5hash.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/md5hash.js",
             done: true
         },
         designator: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/designator.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/designator.js",
             done: true
         },
         playlist: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/playlist.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/playlist.js",
             done: true
         },
         notifier: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/playlist.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/playlist.js",
             done: true
         },
         chatline: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/chatline.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/chatline.js",
             done: true
         },
         chatext: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/chattext.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/chattext.js",
             done: true
         },
         chatcolor: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/chattext.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/chattext.js",
             done: true
         },
         colormap: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/colormap.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/colormap.js",
             done: true
         },
         layout: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/layout.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/layout.js",
             done: true
         },
         various: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/various.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/various.js",
             done: true
         },
         embedmedia: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/embedmedia.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/embedmedia.js",
             done: true
         },
         chaticons: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/embedmedia.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/embedmedia.js",
             done: true
         },
         ci_library: {
@@ -164,7 +164,7 @@ if (!this[CHANNEL.name].favicon) {
         time: {
             active: 1,
             rank: -1,
-            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/modules/time.js",
+            url: "https://raw.githack.com/DeveloperNotFound/sgstuff/master/modules/time.js",
             done: true
         }
     },
